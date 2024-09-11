@@ -1,0 +1,2 @@
+# bot
+basic bot
